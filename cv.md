@@ -19,7 +19,7 @@ my IT skills.
 
 ## Skills
 
-|            |             |            |
+|            | Hard skills |            |
 | ---------- | ----------- | ---------- |
 | HTML5      | GIT         | Node.js    |
 | CSS3       | SASS        | Docker     |
