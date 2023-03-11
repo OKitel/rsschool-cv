@@ -36,8 +36,6 @@ Soft skills
 
 ### Sample of code: Binary Search Algorithm
 
----
-
 ```javascript
 const search = function (nums, target) {
   let left = 0;
@@ -64,14 +62,10 @@ I'll be glad to start my work in IT because it's a modern and constantly develop
 
 ### My projects
 
----
-
 1. [Poker Planning](https://jovial-maamoul-0dab99.netlify.app/) [React, Typescript, Material-UI, SASS]
 2. [Online Zoo](https://rolling-scopes-school.github.io/okitel-JSFE2021Q1/online-zoo/pages/landing/) [HTML, CSS, JavaScript]
 3. [Match game](https://rolling-scopes-school.github.io/okitel-JSFE2021Q1/match-match-game/dist/) [HTML, CSS, Typescript, Bootstrap]
 4. [English for kids](https://rolling-scopes-school.github.io/okitel-JSFE2021Q1/english-for-kids-base/dist/#main) [HTML, CSS, Typescript]
-
----
 
 ## Education
 
@@ -88,8 +82,6 @@ February 2021 - February 2022
 
 **Belarusian State Medical University**  
 2009 - 2015
-
----
 
 ## Languages
 
