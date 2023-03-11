@@ -26,3 +26,40 @@ my IT skills.
 | React      | Material-UI |
 | WebPack    | PostgreSQL  |
 | GIT        | Jest        |
+
+### Sample of code: Binary Search Algorithm
+
+---
+
+```javascript
+const search = function (nums, target) {
+  let left = 0;
+  let right = nums.length - 1;
+  let mid = Math.floor((left + right) / 2);
+
+  while (left <= right) {
+    if (nums[mid] === target) {
+      return mid;
+    } else if (nums[mid] > target) {
+      right = mid - 1;
+    } else {
+      left = mid + 1;
+    }
+    mid = Math.floor((left + right) / 2);
+  }
+  return -1;
+};
+```
+
+## Work Experience
+
+I'll be glad to start my work in IT because it's a modern and constantly developing branch. As I'm passionate about learning new technologies and applying them to real projects, IT is a perfect place for me.
+
+### My projects
+
+---
+
+1. [Poker Planning](https://jovial-maamoul-0dab99.netlify.app/) [React, Typescript, Material-UI, SASS]
+2. [Online Zoo](https://rolling-scopes-school.github.io/okitel-JSFE2021Q1/online-zoo/pages/landing/) [HTML, CSS, JavaScript]
+3. [Match game](https://rolling-scopes-school.github.io/okitel-JSFE2021Q1/match-match-game/dist/) [HTML, CSS, Typescript, Bootstrap]
+4. [English for kids](https://rolling-scopes-school.github.io/okitel-JSFE2021Q1/english-for-kids-base/dist/#main) [HTML, CSS, Typescript]
