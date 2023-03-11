@@ -1,5 +1,7 @@
 # Olga Kitel
 
+![Olga Kitel](./OKV-modified.png)
+
 ## Contacts
 
 - [Discord](https://discord.com/): OKitel#0345 (@OKitel)
