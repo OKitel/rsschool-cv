@@ -19,15 +19,20 @@ my IT skills.
 
 ## Skills
 
-|            |             |
-| ---------- | ----------- |
-| HTML5      | Bootstrap   |
-| CSS3       | SASS        |
-| JavaScript | Node.js     |
-| Typescript | Docker      |
-| React      | Material-UI |
-| WebPack    | PostgreSQL  |
-| GIT        | Jest        |
+|            |             |            |
+| ---------- | ----------- | ---------- |
+| HTML5      | GIT         | Node.js    |
+| CSS3       | SASS        | Docker     |
+| JavaScript | Bootstrap   | PostgreSQL |
+| Typescript | Material-UI | Jest       |
+| React      | WebPack     | npm        |
+
+Soft skills
+
+- Scrum
+- Teamwork
+- Time management
+- Communication
 
 ### Sample of code: Binary Search Algorithm
 
