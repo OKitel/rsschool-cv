@@ -63,3 +63,29 @@ I'll be glad to start my work in IT because it's a modern and constantly develop
 2. [Online Zoo](https://rolling-scopes-school.github.io/okitel-JSFE2021Q1/online-zoo/pages/landing/) [HTML, CSS, JavaScript]
 3. [Match game](https://rolling-scopes-school.github.io/okitel-JSFE2021Q1/match-match-game/dist/) [HTML, CSS, Typescript, Bootstrap]
 4. [English for kids](https://rolling-scopes-school.github.io/okitel-JSFE2021Q1/english-for-kids-base/dist/#main) [HTML, CSS, Typescript]
+
+---
+
+## Education
+
+> Tell me, and I forget. Teach me, and I remember. Involve me, and I learn. **Benjamin Franklin**
+
+**The Rolling Scopes School**  
+February 2021 - February 2022
+
+**Certificates:**
+
+[JAVASCRIPT/FRONT-END 2021Q (JAVASCRIPT)](https://app.rs.school/certificate/vcbxe1ab)  
+[REACT 2021 Q3 (JAVASCRIPT)](https://app.rs.school/certificate/zdpyczrr)  
+[NODEJS 2021 Q4 (NODE.JS)](https://app.rs.school/certificate/hiatodph)
+
+**Belarusian State Medical University**  
+2009 - 2015
+
+---
+
+## Languages
+
+[English C2](https://www.efset.org/cert/KtUd74)  
+Polish B1  
+Russian Native
