@@ -135,3 +135,54 @@ a.list-primary-item:hover {
 .certificates-links:hover {
   text-decoration: underline;
 }
+
+aside {
+  width: 370px;
+  background: #1e2939;
+}
+
+.cv-photo {
+  margin-top: 40px;
+}
+
+.header-secondary {
+  color: #ffffff;
+}
+
+.contact-links {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.list-secondary {
+  color: #fb6d3a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list-secondary-item {
+  color: #ffffff;
+}
+
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.tech-skills-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+
+.soft-skills-block {
+  margin-top: 44px;
+  margin-left: 40px;
+}
