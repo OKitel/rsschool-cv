@@ -8,14 +8,18 @@ body {
   background: #f5f7fa;
   font-family: 'Montserrat', sans-serif;
 }
+
 .wrapper {
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: center;
   width: 1200px;
   margin: 0 auto;
   background: #ffffff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.wrap-pos {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
 }
 
 main {
@@ -30,6 +34,11 @@ main {
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
+  color: #fb6d3a;
+  margin: 0;
+  position: absolute;
+  top: 20px;
+  right: 5%;
 }
 
 h1 {
@@ -48,6 +57,12 @@ h1 {
 .projects {
   width: 485px;
   margin-bottom: 51px;
+  color: #fb6d3a;
+}
+
+.project-container {
+  display: flex;
+  justify-content: space-between;
 }
 
 .list-primary {
@@ -55,17 +70,19 @@ h1 {
   font-size: 14px;
   line-height: 24px;
   padding-left: 0;
-  list-style-position: inside;
+  text-decoration: none;
+  color: black;
 }
 
 .list-primary-item {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  text-decoration: none;
+
   color: #595959;
 }
-a.list-primary-item:hover {
+
+a.list-primary:hover {
   text-decoration: underline;
 }
 
@@ -104,7 +121,6 @@ a.list-primary-item:hover {
 
 .work-experience-block {
   width: 525px;
-  margin-bottom: 43px;
 }
 
 .university-name {
@@ -132,6 +148,7 @@ a.list-primary-item:hover {
   color: #1e2939;
   text-decoration: none;
 }
+
 .certificates-links:hover {
   text-decoration: underline;
 }
