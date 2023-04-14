@@ -27,7 +27,7 @@ main {
 }
 
 .main-description {
-  width: 400px;
+  width: 500px;
 }
 
 .job-title {
@@ -52,6 +52,7 @@ h1 {
   line-height: 24px;
   color: #595959;
   margin-bottom: 40px;
+  text-align: justify;
 }
 
 .projects {
@@ -162,8 +163,12 @@ aside {
   margin-top: 40px;
 }
 
+header {
+  position: relative;
+}
+
 .header-secondary {
-  color: #ffffff;
+  color: #fb6d3a;
 }
 
 .contact-links {
